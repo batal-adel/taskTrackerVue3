@@ -1,19 +1,22 @@
-# tracker-vue
+## Task Tracker Mobile App using VUE3 with the Options API
 
-## Project setup
+### This application was built using the json-server fake api
+#### To run the fake api:
+```
+npm run backend-server
+```
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
